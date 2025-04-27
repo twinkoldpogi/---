@@ -24,7 +24,7 @@ const Greeting = () => {
           <div className="polaroid-container">
             {/* Replace with your actual photo */}
             <Image
-              src="/images/lab1.jpg"
+              src="/images/lab1.JPG"
               alt="Birthday memory"
               width={270}
               height={220}
