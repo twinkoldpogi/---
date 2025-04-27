@@ -5,16 +5,16 @@ import { motion } from "framer-motion";
 const RomanticSection = () => {
   const specialMoments = [
     {
-      title: "Our Inside Jokes",
-      description: "The secret language only we understand",
+      title: "Sept 7, 2022",
+      description: "Our first landian ng malala HAHAHA",
     },
     {
-      title: "Our Dreams Together",
-      description: "All the beautiful plans we're making",
+      title: "April 30, 2023",
+      description: "The day you said yes.",
     },
     {
-      title: "Our Song",
-      description: "The melody that always brings us back to each other",
+      title: "Best Part",
+      description: "Love song natin",
     },
   ];
 
@@ -45,8 +45,7 @@ const RomanticSection = () => {
           className="text-lg sm:text-xl text-center mb-10 sm:mb-16 max-w-2xl mx-auto"
           style={{ color: "rgba(0,0,0,0.7)" }}
         >
-          Every moment with you feels like a page from a beautiful, never-ending
-          love story
+          Every moment feels like a dream lovey. i don't want to wake up.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-10 max-w-5xl mx-auto">
